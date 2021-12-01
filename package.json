@@ -1,0 +1,11 @@
+{
+  "name": "nodejsalgo",
+  "version": "1.0.0",
+  "description": "node algo practice by  Shifat",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Shifat Ahmed",
+  "license": "ISC"
+}
